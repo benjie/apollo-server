@@ -105,7 +105,7 @@
     "connect": "3.7.0",
     "deep-freeze": "0.0.1",
     "express": "4.17.1",
-    "fastify": "1.14.6",
+    "fastify": "2.6.0",
     "fibers": "3.1.1",
     "form-data": "2.4.0",
     "graphql": "14.3.1",
